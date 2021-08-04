@@ -117,7 +117,7 @@ nav .fa{
     .text-box h1{
         font-size: 23px;
         color:#fff;
-        /*font-style: italic;*/
+        font-style: italic;
         font-family: Lucida Handwriting;
     }
     .nav-links ul li{
